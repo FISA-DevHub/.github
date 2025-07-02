@@ -9,7 +9,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)
 
 [![Organization](https://img.shields.io/badge/🏢_Organization-WooriFISA-4285f4?style=plastic)](https://github.com/FISA-DevHub)
-[![Members](https://img.shields.io/badge/👥_Members-4-34d399?style=plastic)](https://github.com/orgs/FISA-DevHub/people)
+[![Members](https://img.shields.io/badge/👥_Members-5-34d399?style=plastic)](https://github.com/orgs/FISA-DevHub/people)
 [![Repositories](https://img.shields.io/badge/📚_Repositories-2-f59e0b?style=plastic)](https://github.com/FISA-DevHub)
 
 </div>

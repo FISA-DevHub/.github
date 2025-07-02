@@ -30,7 +30,7 @@
 <tr>
 <td>
 
-**📚 [Java-Study](https://github.com/FISA-STUDY/Github-study)**
+**📚 [Java-Study](https://github.com/FISA-STUDY/Java-Study)**
 
 ![Status](https://img.shields.io/badge/Status-Planning-fbbf24?style=plastic)
 ![Language](https://img.shields.io/badge/Language-Java-f97316?style=plastic)

@@ -8,9 +8,9 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)
 
-[![Organization](https://img.shields.io/badge/🏢_Organization-WooriFISA-4285f4?style=plastic)](https://github.com/FISA-Dev)
-[![Members](https://img.shields.io/badge/👥_Members-4-34d399?style=plastic)](https://github.com/orgs/FISA-Dev/people)
-[![Repositories](https://img.shields.io/badge/📚_Repositories-2-f59e0b?style=plastic)](https://github.com/FISA-Dev)
+[![Organization](https://img.shields.io/badge/🏢_Organization-WooriFISA-4285f4?style=plastic)](https://github.com/FISA-DevHub)
+[![Members](https://img.shields.io/badge/👥_Members-4-34d399?style=plastic)](https://github.com/orgs/FISA-DevHub/people)
+[![Repositories](https://img.shields.io/badge/📚_Repositories-2-f59e0b?style=plastic)](https://github.com/FISA-DevHub)
 
 </div>
 
@@ -30,7 +30,7 @@
 <tr>
 <td>
 
-**📚 [Java-Study](https://github.com/FISA-STUDY/Java-Study)**
+**📚 [Java-Study](https://github.com/FISA-DevHub/Java-Study)**
 
 ![Status](https://img.shields.io/badge/Status-Planning-fbbf24?style=plastic)
 ![Language](https://img.shields.io/badge/Language-Java-f97316?style=plastic)

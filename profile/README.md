@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![image](https://github.com/user-attachments/assets/588314c5-6fdd-47c8-a0ff-9eb52596383c)
+<img src="https://github.com/user-attachments/assets/588314c5-6fdd-47c8-a0ff-9eb52596383c" width="300"/>
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)

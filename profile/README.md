@@ -102,8 +102,6 @@ mvn clean compile
 
 <div align="center">
 
-**Made with 💙 by Woori FISA Team**
-
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=4285f4&height=100&section=footer)
 
 </div>
